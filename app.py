@@ -51,7 +51,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("<div class='title'>Video Summarizer Agent</div>", unsafe_allow_html=True)
+st.markdown("<div class='title'>Video Insights Agent</div>", unsafe_allow_html=True)
 
 @st.cache_resource
 def initialize_agent():
