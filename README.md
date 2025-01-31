@@ -1,6 +1,8 @@
-# Video Summarizer AI Agent
+# Video Insights AI Agent
 
-Welcome to the **Video Summarizer AI Agent** powered by **Gemini 2.0** and **DuckDuckGo**. This app allows you to upload a video file and query the AI for insights, summaries, or detailed analysis based on the video content.
+- [Use it: ](https://video-insights.streamlit.app/)
+
+Welcome to the **Video Insights AI Agent** powered by **Gemini 2.0** and **DuckDuckGo**. This app allows you to upload a video file and query the AI for insights, summaries, or detailed analysis based on the video content.
 
 ### How It Works:
 
